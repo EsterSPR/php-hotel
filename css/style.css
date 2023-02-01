@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding-top: 150px;
+}
+
+.hotel-table{
+    margin: 0 auto;
+}
+
+.hotel-cell{
+    border: 1px solid black;
+}
